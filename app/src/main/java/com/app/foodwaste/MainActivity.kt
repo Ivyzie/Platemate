@@ -1,4 +1,4 @@
-package com.app.foodwaste
+package com.app.platemate
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -38,10 +38,10 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.painter.Painter
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.app.foodwaste.navigation.MyNavHost
-//import com.app.foodwaste.navigation.MyNavHost
-import com.app.foodwaste.ui.theme.FoodwasteTheme
-import com.app.foodwaste.ui.theme.themeColor
+import com.app.platemate.navigation.MyNavHost
+//import com.app.platemate.navigation.MyNavHost
+import com.app.platemate.ui.theme.platemateTheme
+import com.app.platemate.ui.theme.themeColor
 
 class MainActivity : ComponentActivity() {
     lateinit var navController : NavHostController
@@ -54,7 +54,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             navController = rememberNavController()
 
-            FoodwasteTheme {
+            platemateTheme {
 
             MyNavHost(navController = navController)
 //                HomeScreen()

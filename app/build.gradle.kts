@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.app.foodwaste"
+    namespace = "com.app.platemate"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.app.foodwaste"
+        applicationId = "com.app.platemate"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

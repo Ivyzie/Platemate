@@ -1,4 +1,4 @@
-package com.app.foodwaste
+package com.app.platemate
 
 // Required imports
 import android.content.Context
@@ -55,8 +55,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import coil.compose.AsyncImage
-import com.app.foodwaste.ui.theme.LogoColor
-import com.app.foodwaste.ui.theme.TextFieldBackColor
+import com.app.platemate.ui.theme.LogoColor
+import com.app.platemate.ui.theme.TextFieldBackColor
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale

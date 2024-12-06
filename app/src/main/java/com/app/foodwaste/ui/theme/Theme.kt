@@ -1,4 +1,4 @@
-package com.app.foodwaste.ui.theme
+package com.app.platemate.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun FoodwasteTheme(
+fun platemateTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

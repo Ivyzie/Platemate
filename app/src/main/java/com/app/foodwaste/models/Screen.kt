@@ -1,4 +1,4 @@
-package com.app.foodwaste.models
+package com.app.platemate.models
 
 // Sealed class for defining routes
 sealed class Screen(val route: String) {

@@ -1,13 +1,13 @@
-package com.app.foodwaste.navigation
+package com.app.platemate.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.app.foodwaste.HomeScreen
-import com.app.foodwaste.LoginForm
-import com.app.foodwaste.SignUpForm
-import com.app.foodwaste.models.Screen
+import com.app.platemate.HomeScreen
+import com.app.platemate.LoginForm
+import com.app.platemate.SignUpForm
+import com.app.platemate.models.Screen
 
 @Composable
 fun MyNavHost(navController: NavHostController) {

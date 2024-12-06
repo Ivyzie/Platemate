@@ -1,4 +1,4 @@
-package com.app.foodwaste
+package com.app.platemate
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -42,8 +42,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.app.foodwaste.models.Screen
-import com.app.foodwaste.ui.theme.LogoColor
+import com.app.platemate.models.Screen
+import com.app.platemate.ui.theme.LogoColor
 
 
 @Preview

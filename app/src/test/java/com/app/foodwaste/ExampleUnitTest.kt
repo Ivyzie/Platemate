@@ -1,4 +1,4 @@
-package com.app.foodwaste
+package com.app.platemate
 
 import org.junit.Test
 

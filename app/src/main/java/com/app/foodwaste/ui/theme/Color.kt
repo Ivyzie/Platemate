@@ -1,4 +1,4 @@
-package com.app.foodwaste.ui.theme
+package com.app.platemate.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

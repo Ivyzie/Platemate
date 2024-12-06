@@ -1,4 +1,4 @@
-package com.app.foodwaste
+package com.app.platemate
 
 import android.content.Context
 import android.net.Uri
@@ -49,7 +49,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import com.app.foodwaste.ui.theme.themeColor
+import com.app.platemate.ui.theme.themeColor
 
 
 @Composable

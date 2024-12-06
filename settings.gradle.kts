@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "foodwaste"
+rootProject.name = "platemate"
 include(":app")
  
